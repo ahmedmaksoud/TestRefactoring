@@ -27,6 +27,7 @@ public class TestUserTrip {
     private User loggedInUser;
     TripServiceTest tripServiceTest;
 
+
    @BeforeAll
    public  void initA(){
         this.tripServiceTest = new TripServiceTest();
